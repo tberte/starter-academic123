@@ -1,6 +1,6 @@
 ---
-title: Nelson Bighetti
-role: Professor of Artificial Intelligence
+title: Thomas Bjerregaard Bertelsen
+role: Ph.d Student in psychology
 bio: My research interests include bayesian statistics, clinical child and
   adolescent psychology, and psychometric theory.
 interests:
@@ -34,6 +34,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Nelson Bighetti is a Ph.D student at the University of Bergen and employed at the hospital of southern Norway. His research interests include bayesian statistics, clinical child and adolescent psychology, and psychometric theory.
+Thomas Bjerregaard Bertelsen is a Ph.D student at the University of Bergen and employed at the hospital of southern Norway. His research interests include bayesian statistics, clinical child and adolescent psychology, and psychometric theory.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
