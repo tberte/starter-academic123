@@ -1,6 +1,7 @@
 ---
 title: Thomas Bjerregaard Bertelsen
 role: Ph.d Student in psychology
+avatar_filename: avatar.jpg
 bio: My research interests include bayesian statistics, clinical child and
   adolescent psychology, and psychometric theory.
 interests:
