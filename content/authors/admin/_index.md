@@ -36,5 +36,3 @@ superuser: true
 highlight_name: false
 ---
 Thomas Bjerregaard Bertelsen is a Ph.D student at the University of Bergen and employed at the hospital of southern Norway. His research interests include bayesian statistics, clinical child and adolescent psychology, and psychometric theory.
-
-{{< icon name="download" pack="fas" >}} Download my {{<staticref "../../assets/media/demo_resume.pdf" >}}resumé{{< /staticref >}}.
