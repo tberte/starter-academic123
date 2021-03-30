@@ -13,14 +13,14 @@ header:
   caption: ""
   image: ""
 ---
-<h1> T1 - Heavy 6 min ca 20 reps per </h1>
+<h3> T1 - Heavy 6 min ca 20 reps per </h3>
 <p id="firstId"></p>
 
-<h1> T2 - medium 12 min ca 30 reps per </h1>
+<h3> T2 - medium 12 min ca 30 reps per </h3>
 <p id="secId"></p>
 <p id="secaId"></p>
 
-<h1> T3 - light 15 min ca. 60 reps  per</h1>
+<h3> T3 - light 15 min ca. 60 reps  per</h3>
 <p id="thirdId"></p>
 <p id="thirdaId"></p>
 <p id="thirdbId"></p>
