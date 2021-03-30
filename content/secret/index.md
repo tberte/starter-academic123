@@ -13,17 +13,58 @@ header:
   caption: ""
   image: ""
 ---
+<h1> T1 - Heavy 6 min ca 20 reps per </h1>
+<p id="firstId"></p>
+
+<h1> T2 - medium 12 min ca 30 reps per </h1>
+<p id="secId"></p>
+
+<h1> T3 - light 15 min ca. 60 reps  per</h1>
+<p id="thirdId"></p>
 
 <script language="JavaScript">
-var r_text = new Array ();
-r_text[0] = "All the leaves are brown";
-r_text[1] = "And the sky is grey";
-r_text[2] = "I've been for a walk";
-r_text[3] = "On a winter's day";
-r_text[4] = "I'd be safe and warm";
-r_text[5] = "If I was in L.A.";
-r_text[6] = "California dreaming, On such a winter's day";
-var i = Math.floor(7*Math.random())
 
-document.write(r_text[i]);
+var firstRandom = [
+"snatch",
+"Clean and Jerk",
+"HSPU",
+"Heavy squat"
+];
+
+var secRandom = [
+"squat",
+"deadlift",
+"pushpress",
+"row",
+"push-up",
+"pull-up"
+];
+
+var thirdRandom = [
+"DU",
+"burpee",
+"hollowhold",
+"superman",
+"kbswing",
+"sprint",
+"airsqaut",
+"bandpull",
+"cuban press"
+];
+
+function firstRandom() {
+return firstRandom[Math.floor((Math.random() * 3.99))];
+}
+
+function secRandom() {
+return secRandom[Math.floor((Math.random() * 5.99))];
+}
+
+function thirdRandom() {
+return thirdRandom[Math.floor((Math.random() * 8.99))];
+}
+
+document.getElementById("firstId").innerHTML = firstRandom();
+document.getElementById("secId").innerHTML = secRandom();
+document.getElementById("thirdId").innerHTML = thirdRandom();
 </script>
