@@ -24,14 +24,18 @@ header:
 
 <script language="JavaScript">
 
-var firstRandom = [
+function firstRandom() {
+    var firstRandom = [
 "snatch",
 "Clean and Jerk",
 "HSPU",
 "Heavy squat"
 ];
+return firstRandom[Math.floor((Math.random() * 3.99))];
+}
 
-var secRandom = [
+function secRandom() {
+    var secRandom = [
 "squat",
 "deadlift",
 "pushpress",
@@ -39,8 +43,11 @@ var secRandom = [
 "push-up",
 "pull-up"
 ];
+return secRandom[Math.floor((Math.random() * 5.99))];
+}
 
-var thirdRandom = [
+function thirdRandom() {
+    var thirdRandom = [
 "DU",
 "burpee",
 "hollowhold",
@@ -51,16 +58,6 @@ var thirdRandom = [
 "bandpull",
 "cuban press"
 ];
-
-function firstRandom() {
-return firstRandom[Math.floor((Math.random() * 3.99))];
-}
-
-function secRandom() {
-return secRandom[Math.floor((Math.random() * 5.99))];
-}
-
-function thirdRandom() {
 return thirdRandom[Math.floor((Math.random() * 8.99))];
 }
 
