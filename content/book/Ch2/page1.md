@@ -4,10 +4,10 @@ date: 2019-05-05
 type: book
 ---
 
-# What to write about
+## What to write about
 Of course you can just write about what you are interested in. The benefit of this is that you will perhaps sustain motivation throughout the writing process. Unfurtunately you may risk writing something that you yourself find very interesting, but is difficult to publish.
 
-# Call for papers as strategy
+## Call for papers as strategy
 I will recommend two strategies. The first is the easiest, but may not always work. Instead of first conducting research and then investigating if anyone want it, wouldnt it be much easier if you knew what publishers wanted and then simply had to write that.
 
 There is such a thing called *call for papers*!. The beauty of call for papers is that in addition to knowing that you have a high chance of publishing if you meet criteria, your article will often be fast-tracked or have a set deadline for revierwers.
@@ -26,7 +26,7 @@ Useful links
 - [perspectives on behavior science](https://www.springer.com/journal/40614/updates)
 - [JCCAP](https://www.journals.elsevier.com/journal-of-the-american-academy-of-child-and-adolescent-psychiatry/call-for-papers)
 
-# Assessing field as strategy
+## Assessing field as strategy
 An alternative is to assess what your field is currently interested in and then write an article based on this. This requires that you read abstracts in 5-10 selected journals that you think may be interested in the data you have. I suggest spending 3-6 hours reading up on what your field is currently interested in before even analyzing your data. This sound like a lot, but take into account the time that will be saved because your article will not be stuck in scientific limbo bouncing between journal rejections.
 
 If you are unsure what your "target journal" are then an alternative is to choose two to three keywords that you think may reflect what your data is about. For example "child anxiety" and "maternal depresion". Search these on google scholar and find an article that reflects that seems to relate to what you have. Then uses a citation network such as [connected papers](https://www.connectedpapers.com/) to find related articles.
