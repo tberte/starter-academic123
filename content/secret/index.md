@@ -14,12 +14,18 @@ header:
   image: ""
 ---
 
+<head>
+<style>
+p {display:inline}
+</style>
+</head>
+
 <h3> T1/T2 use for 3-6 weeks </h3>
-
+<h4> Legs </h4>
 <p id ="legT1"></p><p id="legPos"></p><p id="tem1"></p><p id="tem2"></p><p id="tem3"></p><p id="tem4"></p>
-
+<h4> Push </h4>
 <p id="pushT1"></p><p id="pushGrip"></p><p id="tem1a"></p><p id="tem2a"></p><p id="tem3a"></p><p id="tem4a"></p>
-
+<h4> Pull </h4>
 <p id="pullT1"></p><p id="legStance"></p><p id="tem1b"></p><p id="tem2b"></p><p id="tem3b"></p><p id="tem4b"></p>
 
 <script language="JavaScript">
