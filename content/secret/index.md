@@ -21,6 +21,8 @@ p {display:inline}
 </head>
 
 <h3> T1/T2 use for 3-6 weeks </h3>
+<h4> T1 = 3-6 RM + 3-8 singles </h4>
+<h4> T2 = 6-10 RM + 1-6*3-5reps </h4>
 <h4> Legs </h4>
 <p id ="legT1"></p><p id="legPos"></p><p id="tem1"></p><p id="tem2"></p><p id="tem3"></p><p id="tem4"></p>
 <h4> Push </h4>
