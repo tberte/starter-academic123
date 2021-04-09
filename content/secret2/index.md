@@ -300,7 +300,7 @@ return pushT31[Math.floor((Math.random() * 6.99))];
 }
 
 function pushT32() {
-    var pushT32a = [
+    var pushT32 = [
 "snatch",
 "jerk",
 "thruster",
