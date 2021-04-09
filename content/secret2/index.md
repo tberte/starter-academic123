@@ -15,9 +15,7 @@ header:
 ---
 
 <head>
-<style>
-p {display:inline}
-</style>
+
 </head>
 
 <h3> Day1 </h3>
