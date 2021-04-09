@@ -1,5 +1,5 @@
 ---
-title: Decide what to write about
+title: Plan Projects
 date: 2019-05-05
 type: book
 ---
@@ -21,4 +21,4 @@ type: book
 - check content (2 hours, assign to others)
 - check writing (2 hours, assign to others)
 - write cover letter (2 hours, assign to others)
-- handle peer review (x hours)
+- handle peer review (Expected 20 hours)
